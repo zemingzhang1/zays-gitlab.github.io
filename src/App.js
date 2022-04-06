@@ -6,8 +6,14 @@ import Footer from './components/Footer';
 import About from './components/About';
 import Resume from './components/Resume';
 import Portfolio from './components/Portfolio';
+import ReactDOM from "react-dom";
+//component file
+import "./App.css";
+
+
 
 class App extends Component {
+
     constructor(props) {
         super(props);
         this.state = {
@@ -40,6 +46,7 @@ class App extends Component {
     render() {
         return (
             <div className="App">
+
                 <Header data={this.state.resumeData.main} />
                 <About data={this.state.resumeData.main} />
                 <Resume data={this.state.resumeData.resume} />
