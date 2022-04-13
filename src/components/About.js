@@ -19,7 +19,8 @@ export default function About(props) {
         var emailW = props.data.emailWork;
         var emailP = props.data.emailPersonal;
         var bio2 = props.data.bio2;
-
+        var git1 = props.data.git1;
+        var git2 = props.data.git2;
         var resumeDownload = props.data.resumedownload;
     };
     
@@ -45,19 +46,21 @@ export default function About(props) {
                                   {city} {state}
                                 </span>
                                 <hr/>
-                                <span><a href="tel:347-322-5173">{phone}</a></span><br/>
-                                <span><a href="mailto:zemingzhang1@gmail.com">{emailP}</a></span><br/>
-                                <span><a href="mailto:work@zemingzhang-zay.com">{emailW}</a></span><br/>
+                                <span><a href="tel:347-322-5173">{phone} <i className="fa fa-phone fa-lg"></i></a></span><br/>
+                                <span><a href="mailto:zemingzhang1@gmail.com">{emailP} <i className="fa fa-envelope fa-lg"></i></a></span><br/>
+                                <span><a href="mailto:work@zemingzhang.com">{emailW} <i className="fa fa-envelope fa-lg"></i></a></span><br/>
+                                <span><a href="https://github.com/zemingzhang1">{git1} <i className="fa fa-github fa-lg"></i></a></span><br/>
+                                <span><a href="https://github.com/Zays-GitLab">{git2} <i className="fa fa-github fa-lg"></i></a></span><br/>
                             </p>
                         </div>
                         <div className="columns download">
                             <p>
                                 
                                 <button class="noselect red">
-                                  <a href={resumeDownload}><i className="fa fa-download"></i> Download Resume</a>
+                                  <a href={resumeDownload}><i className="fa fa-download fa-lg"></i> Download Resume</a>
                                 </button>
                                 <button class="noselect red">
-                                  <a href={resumeDownload}><i className="fa fa-download"></i> Download Cover Letter</a>
+                                  <a href={resumeDownload}><i className="fa fa-download fa-lg"></i> Download Cover Letter</a>
                                 </button>
                             </p>
                         </div>

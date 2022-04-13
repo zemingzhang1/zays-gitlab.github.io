@@ -59,6 +59,8 @@ export default function Resume(props) {
                     <h1><span>Skills</span></h1>
                 </div>
                 <div className="nine columns main-col">
+                <i class="fa fa-hand-o-down fa-lg" aria-hidden="true"></i>
+                <i class="fa fa-hand-o-down fa-lg" aria-hidden="true"></i>
                 <Collapsible trigger={skillmessage}>
                     <hr/>
                     <div className="bars">
@@ -66,6 +68,8 @@ export default function Resume(props) {
                     </div>
                     <i>{beyondClass}</i>
                 </Collapsible>
+                <i class="fa fa-angle-double-down fa-lg" aria-hidden="true"></i>
+                <i class="fa fa-angle-double-down fa-lg" aria-hidden="true"></i>
                 </div>
             </div>
         </section>
