@@ -1,13 +1,13 @@
 {
-  "main.css": "/zays-gitlab.github.io/static/css/main.1d5735e9.chunk.css",
-  "main.js": "/zays-gitlab.github.io/static/js/main.7d5beb2e.chunk.js",
-  "main.js.map": "/zays-gitlab.github.io/static/js/main.7d5beb2e.chunk.js.map",
-  "runtime~main.js": "/zays-gitlab.github.io/static/js/runtime~main.751dbff6.js",
-  "runtime~main.js.map": "/zays-gitlab.github.io/static/js/runtime~main.751dbff6.js.map",
-  "static/js/2.142c0dc5.chunk.js": "/zays-gitlab.github.io/static/js/2.142c0dc5.chunk.js",
-  "static/js/2.142c0dc5.chunk.js.map": "/zays-gitlab.github.io/static/js/2.142c0dc5.chunk.js.map",
-  "index.html": "/zays-gitlab.github.io/index.html",
-  "precache-manifest.305b8f16a5ff071e12a9dc9f7bdf1fb3.js": "/zays-gitlab.github.io/precache-manifest.305b8f16a5ff071e12a9dc9f7bdf1fb3.js",
-  "service-worker.js": "/zays-gitlab.github.io/service-worker.js",
-  "static/css/main.1d5735e9.chunk.css.map": "/zays-gitlab.github.io/static/css/main.1d5735e9.chunk.css.map"
+  "main.css": "/static/css/main.1d5735e9.chunk.css",
+  "main.js": "/static/js/main.8164c46b.chunk.js",
+  "main.js.map": "/static/js/main.8164c46b.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.142c0dc5.chunk.js": "/static/js/2.142c0dc5.chunk.js",
+  "static/js/2.142c0dc5.chunk.js.map": "/static/js/2.142c0dc5.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.194e835aee2fab3bed283fb85cac2d8e.js": "/precache-manifest.194e835aee2fab3bed283fb85cac2d8e.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.1d5735e9.chunk.css.map": "/static/css/main.1d5735e9.chunk.css.map"
 }
