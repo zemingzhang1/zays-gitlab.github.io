@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/zemingzhang1/zays-gitlab.github.io.git/precache-manifest.7a6401baf7377d880cfcb13d502e1a4f.js"
+  "/zays-gitlab.github.io/precache-manifest.305b8f16a5ff071e12a9dc9f7bdf1fb3.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/zemingzhang1/zays-gitlab.github.io.git/index.html", {
+workbox.routing.registerNavigationRoute("/zays-gitlab.github.io/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
