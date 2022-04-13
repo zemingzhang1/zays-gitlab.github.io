@@ -1,0 +1,219 @@
+{
+    "main": {
+        "name": "ZeMing Zhang",
+        "description": "Never look down at anybody unless you're helping them up",
+        "image": "profilepic.jpg",
+        "bio": "When I first started college, I planned to major in art, but after switching to civil engineering, I decided to pursue a Bachelor of Science in computer science. My first computer science course was offered during the first semester of my sophomore year. I've attended beginner courses in a variety of languages, including Python, HTML, CSS, and JavaScript, among others. Following the second semester, I began attending classes on object-oriented and functional programming using Scala in JavaScript. The last two years of college, I concentrated my studies on data-intensive engineering and increased my understanding of software development. I really enjoy working with low-level programming languages such as C, C++, and C#, and I've acquired a strong interest in operating system development as a result. I also began taking MIPS classes during my junior year, which taught me how to program computer hardware and software. As a result of my interest in pointer languages, I began building skills in current networking and decided to minor in cybersecurity. In terms of data engineering, it has always been a personal ambition of mine. Finally, I was given permission to pursue it while in college. I studied pattern recognition, data-intensive computing, and web scraping classes while working on a project for one of my classes that involved scraping Zillow data, which I found to be both intriguing and entertaining. Later, I enrolled in a course on parallel programming, which focuses on multithreading massive volumes of data through multicore execution. Then, in my senior year, I'm studying compilers, which is a crash course on how a high-level language is recognized, parsed, analyzed, and tokenized to generate machine code, including binary instructions; it provides you a better visual understanding of how your computer operates on zeros and ones.",
+        "bio2": "My name is Zeming Zhang, and I am from Queens, New York. I am currently a senior at the University of Buffalo, where I am pursuing a Bachelor of Science in computer science. 2018 marked the first year of my undergraduate education, which began directly after high school graduation. ▼",
+        "contactmessage": "Please contact me if you are interested in my skills.",
+        "emailWork": "work@zemingzhang.com",
+        "emailPersonal":"zemingzhang1@gmail.com",
+        "phone": "347-322-5173",
+        "github": "https://github.com/",
+        "project": "https://github.com/",
+        "address": {
+            "street": "13346 37-th Ave Apt4",
+            "city": "Flushing Queens",
+            "state": "New York"
+        },
+        "website": "https://github.com/",
+        "resumedownload": "https://github.com/",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://github.com/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "http://twitter.com",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "http://instagram.com/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "beyondClass": "Working as a software-independent study student at the University of Buffalo's nanosatellite program, I am now pursuing a degree in computer science. Our current goal is to send a nanosatellite into orbit in order to collect data on the path taken by space debris throughout its flight. Working on a satellite camera support software, which allows a satellite built in C to connect with a camera written in C++, is something I've recently started doing. This experience taught me about the problems and provided me with a better knowledge of the environment that arises while working with a big number of people who have a range of diverse points of view, both personally and professionally. An additional form of product flow that ought to be mentioned is the agile workflow. This is a technique of product flow that stresses finishing tasks fast yet completely, and then enhancing them in successive iterations. According to my estimation, this strategy is incredibly effective; it has supplied me with more information and preference when making professional selections; it has taught me what I want from my job and what I do not want in a workplace. Additionally, this position assisted me in honing my software coding skills by introducing me to new tools, new programming languages, and a whole new field of software engineering - aviation software - that I would not have otherwise encountered. The fact that I am working with a professional group of people also helps me to feel more ownership and responsibility for a commitment or task that I have undertaken. All of these elements contributed to the enhancement of my profile as an engineer and the expansion of my talents in my field.",
+
+        "skillmessage": "Please click on this message to see a drop down list of my skills and haer a little more about my work beyond the classroom.",
+        
+        "education": [
+            {
+                "school": "University at Buffalo?",
+                "degree": "Bachelor of Science in Computer Science",
+                "graduated": "June 2022",
+                "description": "Graduating with a 3.2 GPA, in computer sicnece with a dpeth or consentration in software and big data engerring."
+            },
+            {
+                "school": "University at Buffalo",
+                "degree": "Minor in Cybersecurity",
+                "graduated": "June 2022",
+                "description": "This minor divides cybersecurity into three categories: software, applied engineering, and social engineering. The software puts students in the role of the attacker, training them to bypass canary and exploit shell console. Topology, IT networking and Cryptography number theory are covered in applied engineering. I also had the opportunity to attend a course conducted by UB's CISO, with the session focusing on security policies and case studies."
+            }
+        ],
+        "work": [
+            {
+                "company": "University at Buffalo Nanosatellite Laboratory",
+                "title": "Independent Study (Glados mission: camera app subteam programmer)",
+                "years": "Dec 2021 – Present (5 mos)",
+                "description": "• Reviewed project specifications and designed NASA flight software solutions that met basic performance expectations, such as sending bus messages and building minimal flight software control applications. • Currently in the Glados Mission as a programmer, and the short cycle/ground station lab as a member. • Worked with soldering and embedded systems, such as Arduino and Raspberry Pi. • Currently working on configuring Egrabber API, writing wrapper functions from C++ to C and programming camera application photo data buffer and packet storage. • As well as organizing metadata of packets for security and networking usage."
+            },
+            {
+                "company": "Microsoft Tech Resilience Program",
+                "title": "Mentee",
+                "years": "Feb 2022 – Apr 2022 (3 mos)",
+                "description": "• Two hour weekly meetings with two Microsoft employees acting as mentors. • Pupils were taught the technical and resilience skills required to make a significant contribution in the world. • Experienced and practiced public and professional speaking and communication. • Partnered with Microsoft employees as mentors with one on one meeting to have professional guidance."
+            },
+            {
+                "company": "Amazon.com",
+                "title": "Operations Manager I Intern",
+                "years": "Feb 2022 – Apr 2022 (3 mos)",
+                "description": "• Coach, manage, and developed Amazon Fulfillment Engine team of 50 to 200 Amazon associates. • Auditing Amazon SLAM lines for proper maintenance and adjustments. • Analyzing and gathering kick out data, package dimensions and content. • learnt to work with central management system consoles such as Apollo, rainbow charts and Amazon FC databases, as well as how to repair networked devices on the AWS physical ethernet layer. • Conducted process improvement project and proposal that helped LGA9 to decrease kick out cost by approximately 25 percent (205,041 dollars)."
+            },
+            {
+                "company": "Modell's Sporting Goods",
+                "title": "Stock and Sales Associate",
+                "years": "Jun 2019 – Nov 2019 (6 mos)",
+                "description": "• Trained as a Cashier then worked the position of Truck Loader, Salesperson, Stock worker, and web fulfillment. • Modells is probably the most stressful place I have worked at, the managers are high achievers along with the sea of people in the store, while under there conditions you must maintain genuine service as well as tackling small projects the manager assigns you. This is my daily, I like to visualize it as skill training, like a class. • I graduated from MODELL learning how to communicate with teammates, planning, perception of surroundings, responsibility, and most importantly stress management, I am able to work underpressure and have better determination."
+            },
+            {
+                "company": "Hollister Co.",
+                "title": "Stock Associate",
+                "years": "Jul 2019 – Aug 2019 (2 mos)",
+                "description": "• Worked as a part time freshman college employee as a lead associate in the Queens center mall for winter break."
+            },
+            {
+                "company": "Abercrombie & Fitch Co.",
+                "title": "Sales Associate",
+                "years": "Jan 2018 – Jan 2019 (1 yr 1 mo)",
+                "description": "• Worked as a part time high school minor employee at the cash register and as a floater. • Trained and developed new sales team associates in product selling technique and maintenance presentable merchandise to drive continuous sales."
+            },
+            {
+                "company": "John Jay College (CUNY)",
+                "title": "Cyber Security Investigators",
+                "years": "Jun 2017 – Sep 2017 (4 mos)",
+                "description": "• This internship program trained students in maintaining the general security of data servers and all the necessary knowledge of how to prevent or fix potential virus threats. • Learned how to SSH and perform various attacks such as DODs . • Learned to prevent virus and ping attacks using firewall rules. • Created a hybrid topology for a small business under a certain budget."
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "60%"
+            },
+            {
+                "name": "C",
+                "level": "55%"
+            },
+            {
+                "name": "C++",
+                "level": "50%"
+            },
+            {
+                "name": "Scala",
+                "level": "90%"
+            },
+            {
+                "name": "JAVA",
+                "level": "80%"
+            },
+            {
+                "name": "Swift",
+                "level": "50%"
+            },
+            {
+                "name": "Kotlin",
+                "level": "50%"
+            },
+            {
+                "name": "HTML",
+                "level": "50%"
+            },
+            {
+                "name": "JS(Node, D3, React)",
+                "level": "50%"
+            },
+            {
+                "name": "CSS and Bootstrap",
+                "level": "50%"
+            },
+            {
+                "name": "MIPS (AT&T, T-mobile syntax)",
+                "level": "50%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "FindTA",
+                "category": "Allows the students to find their TAs.",
+                "image": "https://gfycat.com/denseexcellentchickadee",
+                "url": "https://github.com/zemingzhang1/Course-TA-Tracker.git",
+                "skills":"Scala"
+            },
+            {
+                "title": "Flixer",
+                "category": "Allows users to browse movies from the The Movie Database AP.",
+                "image": "https://github.com/zemingzhang1/Flixer/blob/main/Screen%20Recording%202021-09-16%20at%2012.00.31%20AM.gif",
+                "url": "https://github.com/zemingzhang1/Flixer.git",
+                "skills":"Swift, Ruby"
+            },
+            {
+                "title": "Finsta",
+                "category": "Clone with a Parse backend, allows users to post, view and comment.",
+                "image": "https://github.com/zemingzhang1/Instagram/blob/main/ezgif.com-gif-maker.gif",
+                "url": "https://github.com/zemingzhang1/Instagram.git",
+                "skills":"Swift, Ruby"
+            },
+            {
+                "title": "Tweet",
+                "category": "This is a basic twitter app to view, compose, favorite, and retweet tweets.",
+                "image": "https://github.com/zemingzhang1/Twitter/blob/main/Part2_Tweeting.gif",
+                "url": "https://github.com/zemingzhang1/Twitter.git",
+                "skills":"Swift, Ruby"
+            },
+            {
+                "title": "ToDo",
+                "category": "To_Do is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item..",
+                "image": "https://github.com/zemingzhang1/To_Do/blob/main/ezgif.com-gif-maker.gif",
+                "url": "https://github.com/zemingzhang1/To_Do.git",
+                "skills":"Kotlin"
+            },
+            {
+                "title": "BigData",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "https://gfycat.com/bouncydisguisedkissingbug",
+                "url": "https://www.google.com",
+                "skills":"Python, SkitLearns"
+            },
+            {
+                "title": "LaTex",
+                "category": "This is a LaTex converter, the input is plain text formatted by the parsing rules indicated blow.",
+                "image": "https://github.com/zemingzhang1/To_Do/blob/main/ezgif.com-gif-maker.gif",
+                "url": "https://github.com/zemingzhang1/To_Do.git",
+                "skills":"Latex, Tex, Python"
+            },
+            {
+                "title": "Query",
+                "category": "This is a Twitter information processing application, it tokenized languages used advanced query search to gather tweets from public figures and analyze their most commonly talked about topic.",
+                "image": "https://64.media.tumblr.com/a9a99eeaf2bcebcb8c2722000a48e1e9/tumblr_ogsvg1Obmc1rqj6wno1_540.gifv",
+                "url": "https://github.com/zemingzhang1/Twitter-Information-processing.git",
+                "skills":"Python, Twitter API"
+            }
+        ]
+    }
+}
