@@ -7,9 +7,7 @@ import About from './components/About';
 import Resume from './components/Resume';
 import Portfolio from './components/Portfolio';
 import ReactDOM from "react-dom";
-//component file
 import "./App.css";
-
 
 
 class App extends Component {

@@ -1,9 +1,11 @@
 import React from 'react';
+import Collapsible from 'react-collapsible';
 
 export default function Resume(props) {
 
     if (props.data) {
         var skillmessage = props.data.skillmessage;
+        var beyondClass =  props.data.beyondClass;
         var education = props.data.education.map(function (education) {
             return <div key={education.school}><h3>{education.school}</h3>
                 <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
@@ -52,21 +54,18 @@ export default function Resume(props) {
                 </div>
             </div>
 
-
-
             <div className="row skill">
                 <div className="three columns header-col">
                     <h1><span>Skills</span></h1>
                 </div>
-
                 <div className="nine columns main-col">
-                    <p>{skillmessage}
-                    </p>
+                <Collapsible trigger={skillmessage}>
+                    <hr/>
                     <div className="bars">
-                        <ul className="skills">
-                            {skills}
-                        </ul>
+                        <ul className="skills">{skills}</ul>
                     </div>
+                    <i>{beyondClass}</i>
+                </Collapsible>
                 </div>
             </div>
         </section>

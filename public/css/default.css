@@ -87,7 +87,7 @@ pre {
    word-wrap: break-word;
 }
 
-blockquote, q { quotes: &#8220 &#8220; }
+blockquote, q { quotes: #8220 #8220; }
 
 blockquote:before, blockquote:after,
 q:before, q:after {
@@ -117,7 +117,6 @@ table {
    border-collapse: collapse;
    border-spacing: 0;
 }
-
 
 /* ------------------------------------------------------------------ */
 /* c. Default and Basic Styles
@@ -705,9 +704,6 @@ properly.
 @media only screen and (max-width: 900px) {
 
    /* block grids on small screens */
-   .s-bgrid-sixths [class*="column"]   { width: 16.66667%; }
-   .s-bgrid-quarters [class*="column"] { width: 25%; }
-   .s-bgrid-thirds [class*="column"]   { width: 33.33333%; }
    .s-bgrid-halves [class*="column"]   { width: 50%; }
 
    /* block grids left clearing */
@@ -718,7 +714,7 @@ properly.
 
 /* mobile wide/smaller tablets
 --------------------------------------------------------------- */
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 770px) {
 
    .row {
 	   width: 460px;
@@ -754,17 +750,16 @@ properly.
 /* mobile narrow
 --------------------------------------------------------------- */
 @media only screen and (max-width: 460px) {
-
    .row { width: auto; }
-
 }
 
 /* larger screens
 --------------------------------------------------------------- */
-@media screen and (min-width: 1200px) {
-
+@media screen and (min-width: 1000px) {
+   .s-bgrid-sixths [class*="column"]   { width: 16.66667%; }
+   .s-bgrid-quarters [class*="column"] { width: 25%; }
+   .s-bgrid-thirds [class*="column"]   { width: 33.33333%; }
    .wide .row { max-width: 1180px; }
-
 }
 
 /* ------------------------------------------------------------------ */
